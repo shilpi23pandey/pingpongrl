@@ -4,6 +4,7 @@ Implemented the system using policy gradient by creating two layer neural networ
 ## Analysis
 Rewards before training:<br />
 ![alt text](https://github.com/swmshra/pingpongrl/blob/master/startRewards.png?raw=true)
+<br />
 Rewards after training:<br />
 ![alt text](https://github.com/swmshra/pingpongrl/blob/master/endRewards.png?raw=true)
 <br />
