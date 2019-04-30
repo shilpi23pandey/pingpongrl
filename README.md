@@ -1,5 +1,7 @@
 # RL agent that learns to play Ping Pong
-Implemented the system using policy gradient by creating two layer neural network and applied RMSProp.
+Implemented the system using policy gradient by creating two layer neural network and applied RMSProp.<br />
+![alt text](https://github.com/swmshra/pingpongrl/blob/master/pingPong.png)
+
 
 ## Analysis
 Rewards before training:<br />
